@@ -1,0 +1,16 @@
+body {
+    background-color: #f7f9fb;
+}
+
+.pattern-output {
+    font-family: monospace;
+    white-space: pre;
+    /* background: #222; */
+    color: black;
+    padding: 10px;
+    border-radius: 8px;
+    /* border: 1px solid black; */
+}
+.alert{
+    font-size: 14px;
+}
